@@ -6,4 +6,4 @@
 <h2>My Stats.</h2>
 <h4><img src="https://github-readme-stats.vercel.app/api?username=Dev-420&show_icons=true&theme=algolia" alt="stats"/> --- 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-420&theme=radical&hide=c,objective-c,nim" alt="languages"/></h4>
-<h4>Portfolio: <a href="https://Dev-420.is-a.dev/">https://hot-dev.is-a.dev/</a></h4>
+<h4>Portfolio: <a href="https://dev-420.is-a.dev/">https://dev-420.is-a.dev/</a></h4>
