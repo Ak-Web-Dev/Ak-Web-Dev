@@ -1,4 +1,3 @@
-<img src="assets/Icon.png">
 <h1>Hi there! I am Dev 420.</h1>
 <h4>A young, both front-end and back-end, web developer from PK.</h4>
 <h2>My Skills:</h2>
